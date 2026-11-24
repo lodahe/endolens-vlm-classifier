@@ -1,6 +1,6 @@
-# EndoLens
+# EndoLens VLM Classifier
 
-A local browser demo for categorizing gastrointestinal endoscopy images into 23 HyperKvasir archive labels, with optional human review and JSON export. It uses Qwen2.5-VL-3B-Instruct with the LoRA adapter selected for Notebook 12's REVIEW evaluation and Notebook 13's final-model comparison.
+EndoLens automatically classifies gastrointestinal endoscopy images into 23 HyperKvasir categories in a local browser app, with optional human review and JSON export. It uses Qwen2.5-VL-3B-Instruct with the LoRA adapter selected for Notebook 12's REVIEW evaluation and Notebook 13's final-model comparison.
 
 ## Run on Windows
 
