@@ -1,0 +1,13 @@
+/models/
+/runs/
+/hf-cache/
+/images/
+/data/
+/Endoscopy_Archive_Source.zip
+/notebooks/*
+!/notebooks/10_HyperKvasir23_Split.ipynb
+!/notebooks/11_HyperKvasir23_Rare_Labels.ipynb
+!/notebooks/12_HyperKvasir23_LoRA.ipynb
+/evaluation_output/
+__pycache__/
+.ipynb_checkpoints/

@@ -1,0 +1,5 @@
+transformers==5.23.0
+peft==0.22.0
+accelerate==1.16.0
+Pillow==13.0.0
+numpy==2.4.6
